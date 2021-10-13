@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 ### To get all missing folders 
 
 You run this commands
-```dart
+```flutter
 cd your_project_location
 flutter create .
 flutter pub get
