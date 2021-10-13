@@ -1,6 +1,6 @@
 # WhatsApp_clone
 
-Building a WhatsApp Clone in Flutter.
+Building a WhatsApp Clone with Flutter.
 
 ## Getting Started
 
