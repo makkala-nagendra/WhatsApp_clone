@@ -35,7 +35,4 @@ flutter pub get
 | <img src="/screenshot/Screenshot_20211016-121815.jpeg" width="300" alt=""> | <img src="/screenshot/Screenshot_20211016-121824.jpeg" width="300" alt=""> | <img src="/screenshot/Screenshot_20211016-121833.jpeg" width="300" alt=""> |
 | <img src="/screenshot/Screenshot_20211016-121840.jpeg" width="300" alt=""> | <img src="/screenshot/Screenshot_20211016-121846.jpeg" width="300" alt=""> | <img src="/screenshot/Screenshot_20211016-121912.jpeg" width="300" alt=""> |
 | <img src="/screenshot/Screenshot_20211016-121920.jpeg" width="300" alt=""> | <img src="/screenshot/Screenshot_20211016-121931.jpeg" width="300" alt=""> | <img src="/screenshot/Screenshot_20211016-121939.jpeg" width="300" alt=""> |
-<<<<<<< HEAD
-=======
 
->>>>>>> e1eae3f12c481e51c0ee753e6651eca739c893f5
