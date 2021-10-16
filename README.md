@@ -15,11 +15,21 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-### To get all missing folders 
+### To get all missing folders
 
 You run this commands
+
 ```dart
 cd your_project_location
 flutter create .
 flutter pub get
 ```
+
+### ScreenShots
+
+| ![screenshot](https://github.com/makkala-nagendra/whatsapp_clone/blob/main/screenshot/Screenshot_20211016-121720.jpeg?raw=true) |
+
+img[alt="screenshot"] { 
+  max-width:  20px; 
+  display: block;
+}
