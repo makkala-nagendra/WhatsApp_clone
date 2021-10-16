@@ -27,9 +27,11 @@ flutter pub get
 
 ### ScreenShots
 
-| ![screenshot](https://github.com/makkala-nagendra/whatsapp_clone/blob/main/screenshot/Screenshot_20211016-121720.jpeg?raw=true) |
-
-img[alt="screenshot"] { 
-  max-width:  20px; 
-  display: block;
-}
+| ScreenShots | | |
+| --- |--- | --- |
+| <img src="/screenshot/Screenshot_20211016-121720.jpeg" width="300" alt=""> | <img src="/screenshot/Screenshot_20211016-121724.jpeg" width="300" alt=""> | <img src="/screenshot/Screenshot_20211016-121729.jpeg" width="300" alt=""> |
+| <img src="/screenshot/Screenshot_20211016-121745.jpeg" width="300" alt=""> | <img src="/screenshot/Screenshot_20211016-121754.jpeg" width="300" alt=""> | <img src="/screenshot/Screenshot_20211016-121759.jpeg" width="300" alt=""> |
+| <img src="/screenshot/Screenshot_20211016-121802.jpeg" width="300" alt=""> | <img src="/screenshot/Screenshot_20211016-121806.jpeg" width="300" alt=""> | <img src="/screenshot/Screenshot_20211016-121809.jpeg" width="300" alt=""> |
+| <img src="/screenshot/Screenshot_20211016-121815.jpeg" width="300" alt=""> | <img src="/screenshot/Screenshot_20211016-121824.jpeg" width="300" alt=""> | <img src="/screenshot/Screenshot_20211016-121833.jpeg" width="300" alt=""> |
+| <img src="/screenshot/Screenshot_20211016-121840.jpeg" width="300" alt=""> | <img src="/screenshot/Screenshot_20211016-121846.jpeg" width="300" alt=""> | <img src="/screenshot/Screenshot_20211016-121912.jpeg" width="300" alt=""> |
+| <img src="/screenshot/Screenshot_20211016-121920.jpeg" width="300" alt=""> | <img src="/screenshot/Screenshot_20211016-121931.jpeg" width="300" alt=""> | <img src="/screenshot/Screenshot_20211016-121939.jpeg" width="300" alt=""> |
