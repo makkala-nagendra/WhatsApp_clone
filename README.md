@@ -27,7 +27,7 @@ flutter pub get
 
 ### ScreenShots
 
-| ScreenShots: | | |
+| | | |
 | --- |--- | --- |
 | <img src="/screenshot/Screenshot_20211016-121720.jpeg" width="300" alt=""> | <img src="/screenshot/Screenshot_20211016-121724.jpeg" width="300" alt=""> | <img src="/screenshot/Screenshot_20211016-121729.jpeg" width="300" alt=""> |
 | <img src="/screenshot/Screenshot_20211016-121745.jpeg" width="300" alt=""> | <img src="/screenshot/Screenshot_20211016-121754.jpeg" width="300" alt=""> | <img src="/screenshot/Screenshot_20211016-121759.jpeg" width="300" alt=""> |
